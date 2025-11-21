@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:06,249
+We start by logging into the system with our secure credentials.
+
+2
+00:00:06,249 --> 00:00:11,579
+Welcome to the Dashboard. This is the central hub for all hospital management activities.
+
+3
+00:00:11,579 --> 00:00:17,533
+Here we can manage Appointments. Let's view the schedule.
+
+4
+00:00:17,533 --> 00:00:23,557
+Next, we browse our directory of specialized Doctors.
+
+5
+00:00:23,557 --> 00:00:31,618
+We can also access detailed Patient Medical Records securely.
+
+6
+00:00:31,618 --> 00:00:38,651
+Finally, we logout to ensure system security.
+
